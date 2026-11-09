@@ -1,1 +1,6 @@
-﻿  raylibPlat.vcxproj -> C:\Users\Alumno\source\repos\raylibPlat\x64\Debug\raylibPlat.exe
+﻿  Character.cpp
+C:\Users\Alumno\Documents\Trabajo en equipo D.E\raylibPlat\Character.cpp(32,46): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\Alumno\Documents\Trabajo en equipo D.E\raylibPlat\Character.cpp(32,40): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\Alumno\Documents\Trabajo en equipo D.E\raylibPlat\Character.cpp(32,36): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\Alumno\Documents\Trabajo en equipo D.E\raylibPlat\Character.cpp(32,24): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+  raylibPlat.vcxproj -> C:\Users\Alumno\Documents\Trabajo en equipo D.E\x64\Debug\raylibPlat.exe
