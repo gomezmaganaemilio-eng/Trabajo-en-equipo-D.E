@@ -1,34 +1,42 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Alumno\\Documents\\Trabajo en equipo D.E\\",
+  "WorkspaceRootPath": "C:\\Users\\Alumno\\Documents\\Github\\Trabajo-en-equipo-D.E\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{AEAB12E5-694F-4FA5-B958-70BD6A95136F}|raylibPlat\\raylibPlat.vcxproj|C:\\Users\\Alumno\\Documents\\Trabajo en equipo D.E\\raylibPlat\\Character.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{AEAB12E5-694F-4FA5-B958-70BD6A95136F}|raylibPlat\\raylibPlat.vcxproj|solutionrelative:raylibPlat\\Character.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AEAB12E5-694F-4FA5-B958-70BD6A95136F}|raylibPlat\\raylibPlat.vcxproj|C:\\Users\\Alumno\\Documents\\Trabajo en equipo D.E\\raylibPlat\\Game.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{AEAB12E5-694F-4FA5-B958-70BD6A95136F}|raylibPlat\\raylibPlat.vcxproj|solutionrelative:raylibPlat\\Game.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AEAB12E5-694F-4FA5-B958-70BD6A95136F}|raylibPlat\\raylibPlat.vcxproj|C:\\Users\\Alumno\\Documents\\Trabajo en equipo D.E\\raylibPlat\\Tile.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{AEAB12E5-694F-4FA5-B958-70BD6A95136F}|raylibPlat\\raylibPlat.vcxproj|C:\\Users\\Alumno\\Documents\\Github\\Trabajo-en-equipo-D.E\\raylibPlat\\Tile.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{AEAB12E5-694F-4FA5-B958-70BD6A95136F}|raylibPlat\\raylibPlat.vcxproj|solutionrelative:raylibPlat\\Tile.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AEAB12E5-694F-4FA5-B958-70BD6A95136F}|raylibPlat\\raylibPlat.vcxproj|C:\\Users\\Alumno\\Documents\\Trabajo en equipo D.E\\raylibPlat\\Character.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{AEAB12E5-694F-4FA5-B958-70BD6A95136F}|raylibPlat\\raylibPlat.vcxproj|solutionrelative:raylibPlat\\Character.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AEAB12E5-694F-4FA5-B958-70BD6A95136F}|raylibPlat\\raylibPlat.vcxproj|C:\\Users\\Alumno\\Documents\\Trabajo en equipo D.E\\raylibPlat\\raylibPlat.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{AEAB12E5-694F-4FA5-B958-70BD6A95136F}|raylibPlat\\raylibPlat.vcxproj|solutionrelative:raylibPlat\\raylibPlat.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AEAB12E5-694F-4FA5-B958-70BD6A95136F}|raylibPlat\\raylibPlat.vcxproj|C:\\Users\\Alumno\\Documents\\Trabajo en equipo D.E\\raylibPlat\\Tile.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{AEAB12E5-694F-4FA5-B958-70BD6A95136F}|raylibPlat\\raylibPlat.vcxproj|C:\\Users\\Alumno\\Documents\\Github\\Trabajo-en-equipo-D.E\\raylibPlat\\Tile.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{AEAB12E5-694F-4FA5-B958-70BD6A95136F}|raylibPlat\\raylibPlat.vcxproj|solutionrelative:raylibPlat\\Tile.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AEAB12E5-694F-4FA5-B958-70BD6A95136F}|raylibPlat\\raylibPlat.vcxproj|C:\\Users\\Alumno\\Documents\\Trabajo en equipo D.E\\raylibPlat\\Game.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{AEAB12E5-694F-4FA5-B958-70BD6A95136F}|raylibPlat\\raylibPlat.vcxproj|C:\\Users\\Alumno\\Documents\\Github\\Trabajo-en-equipo-D.E\\raylibPlat\\Brick.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{AEAB12E5-694F-4FA5-B958-70BD6A95136F}|raylibPlat\\raylibPlat.vcxproj|solutionrelative:raylibPlat\\Brick.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEAB12E5-694F-4FA5-B958-70BD6A95136F}|raylibPlat\\raylibPlat.vcxproj|C:\\Users\\Alumno\\Documents\\Github\\Trabajo-en-equipo-D.E\\raylibPlat\\Game.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{AEAB12E5-694F-4FA5-B958-70BD6A95136F}|raylibPlat\\raylibPlat.vcxproj|solutionrelative:raylibPlat\\Game.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEAB12E5-694F-4FA5-B958-70BD6A95136F}|raylibPlat\\raylibPlat.vcxproj|C:\\Users\\Alumno\\Documents\\Github\\Trabajo-en-equipo-D.E\\raylibPlat\\Character.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{AEAB12E5-694F-4FA5-B958-70BD6A95136F}|raylibPlat\\raylibPlat.vcxproj|solutionrelative:raylibPlat\\Character.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEAB12E5-694F-4FA5-B958-70BD6A95136F}|raylibPlat\\raylibPlat.vcxproj|C:\\Users\\Alumno\\Documents\\Github\\Trabajo-en-equipo-D.E\\raylibPlat\\Game.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{AEAB12E5-694F-4FA5-B958-70BD6A95136F}|raylibPlat\\raylibPlat.vcxproj|solutionrelative:raylibPlat\\Game.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEAB12E5-694F-4FA5-B958-70BD6A95136F}|raylibPlat\\raylibPlat.vcxproj|C:\\Users\\Alumno\\Documents\\Github\\Trabajo-en-equipo-D.E\\raylibPlat\\Brick.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{AEAB12E5-694F-4FA5-B958-70BD6A95136F}|raylibPlat\\raylibPlat.vcxproj|solutionrelative:raylibPlat\\Brick.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEAB12E5-694F-4FA5-B958-70BD6A95136F}|raylibPlat\\raylibPlat.vcxproj|C:\\Users\\Alumno\\Documents\\Github\\Trabajo-en-equipo-D.E\\raylibPlat\\raylibPlat.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{AEAB12E5-694F-4FA5-B958-70BD6A95136F}|raylibPlat\\raylibPlat.vcxproj|solutionrelative:raylibPlat\\raylibPlat.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEAB12E5-694F-4FA5-B958-70BD6A95136F}|raylibPlat\\raylibPlat.vcxproj|C:\\Users\\Alumno\\Documents\\Github\\Trabajo-en-equipo-D.E\\raylibPlat\\Character.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{AEAB12E5-694F-4FA5-B958-70BD6A95136F}|raylibPlat\\raylibPlat.vcxproj|solutionrelative:raylibPlat\\Character.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,28 +46,28 @@
       "DocumentGroups": [
         {
           "DockedWidth": 201,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "Tile.cpp",
-              "DocumentMoniker": "C:\\Users\\Alumno\\Documents\\Trabajo en equipo D.E\\raylibPlat\\Tile.cpp",
+              "DocumentMoniker": "C:\\Users\\Alumno\\Documents\\Github\\Trabajo-en-equipo-D.E\\raylibPlat\\Tile.cpp",
               "RelativeDocumentMoniker": "raylibPlat\\Tile.cpp",
-              "ToolTip": "C:\\Users\\Alumno\\Documents\\Trabajo en equipo D.E\\raylibPlat\\Tile.cpp",
+              "ToolTip": "C:\\Users\\Alumno\\Documents\\Github\\Trabajo-en-equipo-D.E\\raylibPlat\\Tile.cpp",
               "RelativeToolTip": "raylibPlat\\Tile.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAUAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2026-11-09T15:46:36.072Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 7,
               "Title": "raylibPlat.cpp",
-              "DocumentMoniker": "C:\\Users\\Alumno\\Documents\\Trabajo en equipo D.E\\raylibPlat\\raylibPlat.cpp",
+              "DocumentMoniker": "C:\\Users\\Alumno\\Documents\\Github\\Trabajo-en-equipo-D.E\\raylibPlat\\raylibPlat.cpp",
               "RelativeDocumentMoniker": "raylibPlat\\raylibPlat.cpp",
-              "ToolTip": "C:\\Users\\Alumno\\Documents\\Trabajo en equipo D.E\\raylibPlat\\raylibPlat.cpp",
+              "ToolTip": "C:\\Users\\Alumno\\Documents\\Github\\Trabajo-en-equipo-D.E\\raylibPlat\\raylibPlat.cpp",
               "RelativeToolTip": "raylibPlat\\raylibPlat.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
@@ -68,45 +76,58 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Game.cpp",
-              "DocumentMoniker": "C:\\Users\\Alumno\\Documents\\Trabajo en equipo D.E\\raylibPlat\\Game.cpp",
+              "DocumentMoniker": "C:\\Users\\Alumno\\Documents\\Github\\Trabajo-en-equipo-D.E\\raylibPlat\\Game.cpp",
               "RelativeDocumentMoniker": "raylibPlat\\Game.cpp",
-              "ToolTip": "C:\\Users\\Alumno\\Documents\\Trabajo en equipo D.E\\raylibPlat\\Game.cpp",
+              "ToolTip": "C:\\Users\\Alumno\\Documents\\Github\\Trabajo-en-equipo-D.E\\raylibPlat\\Game.cpp",
               "RelativeToolTip": "raylibPlat\\Game.cpp",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAUAAAAlAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2026-10-29T17:07:35.178Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "Character.cpp",
-              "DocumentMoniker": "C:\\Users\\Alumno\\Documents\\Trabajo en equipo D.E\\raylibPlat\\Character.cpp",
+              "DocumentMoniker": "C:\\Users\\Alumno\\Documents\\Github\\Trabajo-en-equipo-D.E\\raylibPlat\\Character.cpp",
               "RelativeDocumentMoniker": "raylibPlat\\Character.cpp",
-              "ToolTip": "C:\\Users\\Alumno\\Documents\\Trabajo en equipo D.E\\raylibPlat\\Character.cpp",
+              "ToolTip": "C:\\Users\\Alumno\\Documents\\Github\\Trabajo-en-equipo-D.E\\raylibPlat\\Character.cpp",
               "RelativeToolTip": "raylibPlat\\Character.cpp",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABkAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAUwB8AAAA7AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2026-11-09T16:18:36.705Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Brick.cpp",
+              "DocumentMoniker": "C:\\Users\\Alumno\\Documents\\Github\\Trabajo-en-equipo-D.E\\raylibPlat\\Brick.cpp",
+              "RelativeDocumentMoniker": "raylibPlat\\Brick.cpp",
+              "ToolTip": "C:\\Users\\Alumno\\Documents\\Github\\Trabajo-en-equipo-D.E\\raylibPlat\\Brick.cpp",
+              "RelativeToolTip": "raylibPlat\\Brick.cpp",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAsAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-11-12T15:41:43.237Z",
               "EditorCaption": ""
             }
           ]
         },
         {
           "DockedWidth": 201,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 1,
               "Title": "Tile.h",
-              "DocumentMoniker": "C:\\Users\\Alumno\\Documents\\Trabajo en equipo D.E\\raylibPlat\\Tile.h",
+              "DocumentMoniker": "C:\\Users\\Alumno\\Documents\\Github\\Trabajo-en-equipo-D.E\\raylibPlat\\Tile.h",
               "RelativeDocumentMoniker": "raylibPlat\\Tile.h",
-              "ToolTip": "C:\\Users\\Alumno\\Documents\\Trabajo en equipo D.E\\raylibPlat\\Tile.h",
+              "ToolTip": "C:\\Users\\Alumno\\Documents\\Github\\Trabajo-en-equipo-D.E\\raylibPlat\\Tile.h",
               "RelativeToolTip": "raylibPlat\\Tile.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAdAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABcAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2026-11-09T15:33:15.355Z",
               "IsPinned": true,
@@ -114,11 +135,24 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
+              "Title": "Brick.h",
+              "DocumentMoniker": "C:\\Users\\Alumno\\Documents\\Github\\Trabajo-en-equipo-D.E\\raylibPlat\\Brick.h",
+              "RelativeDocumentMoniker": "raylibPlat\\Brick.h",
+              "ToolTip": "C:\\Users\\Alumno\\Documents\\Github\\Trabajo-en-equipo-D.E\\raylibPlat\\Brick.h",
+              "RelativeToolTip": "raylibPlat\\Brick.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-11-12T15:39:33.126Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "Character.h",
-              "DocumentMoniker": "C:\\Users\\Alumno\\Documents\\Trabajo en equipo D.E\\raylibPlat\\Character.h",
+              "DocumentMoniker": "C:\\Users\\Alumno\\Documents\\Github\\Trabajo-en-equipo-D.E\\raylibPlat\\Character.h",
               "RelativeDocumentMoniker": "raylibPlat\\Character.h",
-              "ToolTip": "C:\\Users\\Alumno\\Documents\\Trabajo en equipo D.E\\raylibPlat\\Character.h",
+              "ToolTip": "C:\\Users\\Alumno\\Documents\\Github\\Trabajo-en-equipo-D.E\\raylibPlat\\Character.h",
               "RelativeToolTip": "raylibPlat\\Character.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
@@ -127,13 +161,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 5,
               "Title": "Game.h",
-              "DocumentMoniker": "C:\\Users\\Alumno\\Documents\\Trabajo en equipo D.E\\raylibPlat\\Game.h",
+              "DocumentMoniker": "C:\\Users\\Alumno\\Documents\\Github\\Trabajo-en-equipo-D.E\\raylibPlat\\Game.h",
               "RelativeDocumentMoniker": "raylibPlat\\Game.h",
-              "ToolTip": "C:\\Users\\Alumno\\Documents\\Trabajo en equipo D.E\\raylibPlat\\Game.h",
+              "ToolTip": "C:\\Users\\Alumno\\Documents\\Github\\Trabajo-en-equipo-D.E\\raylibPlat\\Game.h",
               "RelativeToolTip": "raylibPlat\\Game.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAOAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2026-10-29T17:04:40.353Z",
               "EditorCaption": ""

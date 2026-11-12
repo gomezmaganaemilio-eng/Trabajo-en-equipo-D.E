@@ -2,7 +2,7 @@
 
 Game::Game()
 {
-	T = new Tile (188, 188, 100);
+	
 	C = new Character({ 10, 100 }, 100);
 	InitWindow(screeenWidth, screenHeight, "Plat");
 	SetTargetFPS(30);
@@ -16,7 +16,7 @@ void Game::InitGame()
 {
 	for (int i = 0; i < 25; i++)
 	{
-		map.push_back(new Tile(i * 50, 550, 50));
+		map.push_back(new Brick(i * 50, 550, 50));
 	}
      ballPos = { (float)screeenWidth / 2, (float)screenHeight / 2 };
 	/*DrawText("Start", (float)screeenWidth/2, (float)screenHeight/2, 50, BLACK);*/

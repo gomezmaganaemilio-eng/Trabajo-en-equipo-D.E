@@ -33,11 +33,23 @@ void Character::Draw()
 }
 void Character::Collision(Tile& T)
 {
-	Rectangle collider = { position.x, position.y, size, size };
-	if (CheckCollisionRecs(collider, T.GetBoxCollider()))
+	Rectangle player = { position.x, position.y, size, size };
+	switch (T.GetType())
 	{
-		position.y = T.GetPosition().y - 100;
-		velocity.y = 0;
-		isGrounded = true;
+	case TileType::Brick:
+		if (T.GetIsActive())
+		{
+			if (CheckCollisionRecs(player, T.GetBoxCollider()))
+			{
+				position.y = T.GetPosition().y - 100;
+				velocity.y = 0;
+				isGrounded = true;
+			}
+		}
+		break;
+	case TileType::Wall:
+		break;
+	case TileType::Stairs:
+		break;
 	}
 }

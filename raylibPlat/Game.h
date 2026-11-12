@@ -1,18 +1,18 @@
 #pragma once
 #include <raylib.h>
-#include "Tile.h"
+#include "Brick.h"
 #include <vector>
 #include <iostream>
 #include "Character.h"
 class Game
 {
 private:
-	std::vector<Tile*> map;
-	bool playing = false;
+	bool playing = true;
 	const int screeenWidth = 800;
 	const int screenHeight = 600;
+	std::vector<Tile*> map;
 	Vector2 ballPos;
-	Tile* T;
+
 	Character* C;
 public:
 	Game();
