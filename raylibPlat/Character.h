@@ -22,4 +22,6 @@ public:
 	void Collision(Tile & T);
 
 };
+//Mochi: Mapa, arena, collisiones de los bloques destructibles, Menu...
+//Dan: Enemigo, colisione de los tuos y de las escaleras.
 

@@ -5,3 +5,4 @@ C:\Users\Alumno\Documents\Trabajo en equipo D.E\x64\Debug\glfw3.dll
 C:\Users\Alumno\Documents\Trabajo en equipo D.E\raylibPlat\x64\Debug\raylibPl.7BCB6754.Up2Date
 C:\Users\Alumno\Documents\Github\Trabajo-en-equipo-D.E\x64\Debug\raylib.dll
 C:\Users\Alumno\Documents\Github\Trabajo-en-equipo-D.E\x64\Debug\glfw3.dll
+C:\Users\Alumno\Documents\Github\Trabajo-en-equipo-D.E\raylibPlat\x64\Debug\raylibPl.7BCB6754.Up2Date

@@ -4,12 +4,13 @@
 #include <vector>
 #include <iostream>
 #include "Character.h"
+#include "Wall.h"
 class Game
 {
 private:
 	bool playing = true;
-	const int screeenWidth = 800;
-	const int screenHeight = 600;
+	const int screeenWidth = 2200;
+	const int screenHeight = 1800;
 	std::vector<Tile*> map;
 	Vector2 ballPos;
 

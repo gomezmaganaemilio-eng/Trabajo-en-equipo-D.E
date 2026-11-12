@@ -22,7 +22,7 @@ void Character::Update()
 	if (IsKeyReleased(KEY_D))
 		velocity.x = 0;
 	if (IsKeyPressed(KEY_SPACE))
-		velocity.y = jumpForce;
+		velocity.y += jumpForce;
 	
 	position.y += velocity.y;
 	position.x += velocity.x;
@@ -48,6 +48,15 @@ void Character::Collision(Tile& T)
 		}
 		break;
 	case TileType::Wall:
+		if (T.GetIsActive())
+		{
+			if (CheckCollisionRecs(player, T.GetBoxCollider()))
+			{
+				position.x = T.GetPosition().x + 100;
+				velocity.x = 0;
+				isGrounded = true;
+			}
+		}
 		break;
 	case TileType::Stairs:
 		break;
