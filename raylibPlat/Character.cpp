@@ -41,7 +41,7 @@ void Character::Collision(Tile& T)
 		{
 			if (CheckCollisionRecs(player, T.GetBoxCollider()))
 			{
-				position.y = T.GetPosition().y - 100;
+				position.y = T.GetPosition().y - 50;
 				velocity.y = 0;
 				isGrounded = true;
 			}

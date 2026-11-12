@@ -23,3 +23,5 @@ public:
 
 };
 
+//MOCHI: mapa, que se rompa el piso, arena 
+//DAN:enemigos, tubo, escalera, game over, win 

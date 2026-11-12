@@ -3,7 +3,7 @@
 Game::Game()
 {
 	
-	C = new Character({ 10, 100 }, 100);
+	C = new Character({ 10, 50 }, 50);
 	InitWindow(screeenWidth, screenHeight, "Plat");
 	SetTargetFPS(30);
 }
