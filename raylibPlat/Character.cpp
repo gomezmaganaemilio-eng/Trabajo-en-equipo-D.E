@@ -21,7 +21,7 @@ void Character::Update()
 		velocity.x = moveSpeed;
 	if (IsKeyReleased(KEY_D))
 		velocity.x = 0;
-	if (IsKeyPressed(KEY_SPACE))
+	if (IsKeyPressed(KEY_X))
 		velocity.y += jumpForce;
 	
 	position.y += velocity.y;
@@ -41,7 +41,7 @@ void Character::Collision(Tile& T)
 		{
 			if (CheckCollisionRecs(player, T.GetBoxCollider()))
 			{
-				position.y = T.GetPosition().y - 100;
+				position.y = T.GetPosition().y - 50;
 				velocity.y = 0;
 				isGrounded = true;
 			}
@@ -52,7 +52,7 @@ void Character::Collision(Tile& T)
 		{
 			if (CheckCollisionRecs(player, T.GetBoxCollider()))
 			{
-				position.x = T.GetPosition().x + 100;
+				position.x = T.GetPosition().x + 50;
 				velocity.x = 0;
 				isGrounded = true;
 			}
@@ -61,4 +61,14 @@ void Character::Collision(Tile& T)
 	case TileType::Stairs:
 		break;
 	}
+}
+
+bool Character::CollectGold(Gold& g)
+{
+	Rectangle player = { position.x, position.y,size,size };
+	if (CheckCollisionRecs(player, g.GetGoldCollider()))
+		return true;
+	else
+		return false;
+	
 }

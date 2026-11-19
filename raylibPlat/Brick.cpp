@@ -9,5 +9,5 @@ Brick::~Brick()
 }
 void Brick::Draw() const
 {
-	DrawRectangle(position.x, position.y, size, size, RED);
+	DrawRectangle(position.x, position.y, size, size, ORANGE);
 }

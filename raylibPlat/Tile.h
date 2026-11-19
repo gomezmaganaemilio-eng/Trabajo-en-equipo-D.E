@@ -3,7 +3,8 @@
 enum class TileType {
 	Brick, // 0
 	Wall, //1
-	Stairs //2
+	Stairs, //2
+	tube
 };
 class Tile
 {

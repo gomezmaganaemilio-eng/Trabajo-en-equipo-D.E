@@ -5,15 +5,20 @@
 #include <iostream>
 #include "Character.h"
 #include "Wall.h"
+#include "Gold.h"
+#include "stairs.h"
+#include "tube.h"
+
 class Game
 {
 private:
 	bool playing = true;
-	const int screeenWidth = 2200;
-	const int screenHeight = 1800;
+	const int screeenWidth = 1400;
+	const int screenHeight = 850;
 	std::vector<Tile*> map;
+	std::vector<Gold*> coins;
 	Vector2 ballPos;
-
+	bool runGame = false;
 	Character* C;
 public:
 	Game();

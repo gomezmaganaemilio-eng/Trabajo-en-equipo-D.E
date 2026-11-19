@@ -12,6 +12,6 @@ Wall::~Wall()
 
 void Wall::Draw() const
 {
-	DrawRectangle(position.x, position.y, size, size, GRAY);
+	DrawRectangle(position.x, position.y, size, size, RED);         
 }
 

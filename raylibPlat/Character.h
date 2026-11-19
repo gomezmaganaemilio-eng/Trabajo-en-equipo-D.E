@@ -1,6 +1,7 @@
 #pragma once
 #include "raylib.h"
 #include "Tile.h"
+#include "Gold.h"
 class Character
 {
 private:
@@ -20,7 +21,7 @@ public:
 	void Update();
 	void Draw();
 	void Collision(Tile & T);
-
+	bool CollectGold(Gold& g);
 };
 //Mochi: Mapa, arena, collisiones de los bloques destructibles, Menu...
 //Dan: Enemigo, colisione de los tuos y de las escaleras.
