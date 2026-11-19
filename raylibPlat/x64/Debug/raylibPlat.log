@@ -1,12 +1,12 @@
 ﻿  Game.cpp
-C:\Users\mjpel\Desktop\juegos mochi\Trabajo-en-equipo-D.E\raylibPlat\Game.cpp(20,32): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
-C:\Users\mjpel\Desktop\juegos mochi\Trabajo-en-equipo-D.E\raylibPlat\Game.cpp(21,33): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
-C:\Users\mjpel\Desktop\juegos mochi\Trabajo-en-equipo-D.E\raylibPlat\Game.cpp(30,30): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
-C:\Users\mjpel\Desktop\juegos mochi\Trabajo-en-equipo-D.E\raylibPlat\Game.cpp(34,30): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
-C:\Users\mjpel\Desktop\juegos mochi\Trabajo-en-equipo-D.E\raylibPlat\Game.cpp(39,30): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
-C:\Users\mjpel\Desktop\juegos mochi\Trabajo-en-equipo-D.E\raylibPlat\Game.cpp(43,29): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
-C:\Users\mjpel\Desktop\juegos mochi\Trabajo-en-equipo-D.E\raylibPlat\Game.cpp(45,29): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
-C:\Users\mjpel\Desktop\juegos mochi\Trabajo-en-equipo-D.E\raylibPlat\Game.cpp(47,29): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
-C:\Users\mjpel\Desktop\juegos mochi\Trabajo-en-equipo-D.E\raylibPlat\Game.cpp(48,28): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
-C:\Users\mjpel\Desktop\juegos mochi\Trabajo-en-equipo-D.E\raylibPlat\Game.cpp(49,28): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
-  raylibPlat.vcxproj -> C:\Users\mjpel\Desktop\juegos mochi\Trabajo-en-equipo-D.E\x64\Debug\raylibPlat.exe
+C:\Users\Alumno\Documents\Github\Trabajo-en-equipo-D.E\raylibPlat\Game.cpp(20,32): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Alumno\Documents\Github\Trabajo-en-equipo-D.E\raylibPlat\Game.cpp(21,33): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Alumno\Documents\Github\Trabajo-en-equipo-D.E\raylibPlat\Game.cpp(30,30): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Alumno\Documents\Github\Trabajo-en-equipo-D.E\raylibPlat\Game.cpp(34,30): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Alumno\Documents\Github\Trabajo-en-equipo-D.E\raylibPlat\Game.cpp(39,30): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Alumno\Documents\Github\Trabajo-en-equipo-D.E\raylibPlat\Game.cpp(43,29): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Alumno\Documents\Github\Trabajo-en-equipo-D.E\raylibPlat\Game.cpp(45,29): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Alumno\Documents\Github\Trabajo-en-equipo-D.E\raylibPlat\Game.cpp(47,29): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Alumno\Documents\Github\Trabajo-en-equipo-D.E\raylibPlat\Game.cpp(48,28): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Alumno\Documents\Github\Trabajo-en-equipo-D.E\raylibPlat\Game.cpp(49,28): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  raylibPlat.vcxproj -> C:\Users\Alumno\Documents\Github\Trabajo-en-equipo-D.E\x64\Debug\raylibPlat.exe

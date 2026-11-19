@@ -76,8 +76,6 @@ void Game::InitGame()
 	map.push_back(new Wall(200, 450, 50));
 	map.push_back(new Wall(200, 400, 50));
 	map.push_back(new Wall(200, 350, 50));
-	map.push_back(new Wall(1100, 750, 50));
-	map.push_back(new Wall(1100, 700, 50));
 	map.push_back(new Wall(1100, 650, 50));
 	map.push_back(new Wall(100, 200, 50));
 	map.push_back(new Wall(150, 200, 50));
